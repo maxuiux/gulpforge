@@ -9,6 +9,7 @@
     background-size: cover;
     background-position: center center;
     position: relative;
+    transition: all var(--transition-1);
 
     @media (prefers-color-scheme: dark) {
         background-image: url(../img/header-background-image-02.jpg);
