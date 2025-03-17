@@ -233,12 +233,12 @@ gulpforge                                   # Ваш проект
 * Добавление в HTML:
 ```html
 <svg>
-    <use xlink:href="img/sprites/icon.svg#github"></use>
+    <use href="img/sprites/icon.svg#github"></use>
 </svg>
 ```
 ```html
 <svg>
-    <use xlink:href="img/sprites/vector.svg#illustration-nature"></use>
+    <use href="img/sprites/vector.svg#illustration-nature"></use>
 </svg>
 ```
 
